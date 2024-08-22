@@ -12,7 +12,7 @@ export default function Footer() {
                 &nbsp; <AiFillGithub className='ml-1' />
             </a>
             &nbsp;
-            <a href="https://github.com/Erik-Varga/react-digital-clock" target="_blank" rel="noreferrer">
+            <a href="https://github.com/Erik-Varga/react-clock-app" target="_blank" rel="noreferrer">
             &nbsp;
         
             Source Code &nbsp;<BsCodeSlash />
